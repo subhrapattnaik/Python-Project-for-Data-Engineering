@@ -1,0 +1,13 @@
+python3.11 -m pip install pandas
+\
+To extract from an XML file, you need first to parse the data from the file using the ElementTree function. You can then extract relevant information from this data and append it to a pandas dataframe .
+\
+glob library to identify the filetype. 
+\
+for extracting a json file It requires an extra argument lines=True to enable the function to read the file as a JSON object 
+on line to line basis as follows.
+\
+logging operation.record a msg with timestamp
+
+
+
